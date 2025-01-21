@@ -2,192 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/0-Preparation/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/1-InfraEnv/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/1-OpenShift/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/2-CP4BAOperators/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/2-CP4BAStatus/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/2-CPFS/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/2-CR/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/2-InstallConfig/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-ADP/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-ADS/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-BAA/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-BAI/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-BAN/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-BAS/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-BAW/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-BTS/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-ComponentHealth/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-DeploymentProfileSize/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-ECM/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-ODM/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/3-RR/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/4-SecurityAndAuth/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/5-Upgrade/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/6-DBStorage/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/7-Troubleshooting/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Container/8-BackupRecovery/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/On-premise/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/On-premise/0-Preparation/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/On-premise/1-InfraEnv/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/On-premise/2-BAW-InstallConfig/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/On-premise/3-BAW-DB/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/On-premise/4-BAW-SecurityAndAuth/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/On-premise/5-BAW-LogAndMon/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Tools/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Tools/PMI/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Tools/nmon/</loc>
-         <lastmod>2024-12-11</lastmod>
+         <lastmod>2025-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

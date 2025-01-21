@@ -1,0 +1,80 @@
+repo_name: BA&DL Health Check
+repo_url: https://github.ibm.com/Automation-SWAT/cp4ba-health-check
+site_name: IBM Business Automation and Digital Labour - Health Check
+site_url: https://mydomain.org/mysite
+
+nav:
+  - 'IBM Health Check': 'index.md'
+  - 'Container':
+    - 'IBM Cloud Pak for Business Automation Health Check (Container version)': 'Container/README.md'
+    - 'Preparation': 'Container/0-Preparation.md'
+    - 'Infrastructure and Environment':
+      - 'Infra&Env': 'Container/1-InfraEnv.md'
+      - 'OpenShift cluster health check': 'Container/1-OpenShift.md'
+    - 'Installation and Configuration':
+      - 'Cloud Pak for Business Automation operators': 'Container/2-CP4BAOperators.md'
+      - 'Cloud Pak for Business Automation cluster': 'Container/2-CP4BAStatus.md'
+      - 'IBM Automation Foundational Services': 'Container/2-CPFS.md'
+      - 'Cloud Pak for Business Automation Custom Resource (CR)': 'Container/2-CR.md'
+      - 'Installation and Configuration': 'Container/2-InstallConfig.md'
+    - 'Component Health': 
+      - 'Automation Document Processing': 'Container/3-ADP.md'
+      - 'Automation Decision Services': 'Container/3-ADS.md'
+      - 'Business Automation Application': 'Container/3-BAA.md'
+      - 'Business Automation Insights': 'Container/3-BAI.md'
+      - 'Business Automation Navigator': 'Container/3-BAN.md'
+      - 'Business Automation Studio': 'Container/3-BAS.md'
+      - 'Business Automation Workflow': 'Container/3-BAW.md'
+      - 'Business Team Service': 'Container/3-BTS.md'
+      - 'CP4BA Component Health Check': 'Container/3-ComponentHealth.md'
+      - 'Cloud Pak for Business Automation Deployment Profile Size': 'Container/3-DeploymentProfileSize.md'
+      - 'Enterprise Content Manager': 'Container/3-ECM.md'
+      - 'Operational Decision Manager': 'Container/3-ODM.md'
+      - 'Resource Registry': 'Container/3-RR.md'
+    - 'Security and Authentication': 'Container/4-SecurityAndAuth.md'
+    - 'Upgrade and Patch Management': 'Container/5-Upgrade.md'
+    - 'Database and Storage': 'Container/6-DBStorage.md'
+    - 'Troubleshooting': 'Container/7-Troubleshooting.md'
+    - 'Backup and Recovery': 'Container/8-BackupRecovery.md'
+    
+  - 'On-Premise':
+    - 'IBM Cloud Pak for Business Automation Health Check (On-premise version)': 'On-premise/README.md'
+    - 'Preparation': 'On-premise/0-Preparation.md'
+    - 'Infrastructure and Environment': 'On-premise/1-InfraEnv.md'
+    - 'Business Automation Workflow Installation and Configuration': 'On-premise/2-BAW-InstallConfig.md'
+    - 'Business Automation Workflow Database': 'On-premise/3-BAW-DB.md'
+    - 'Business Automation Workflow Security and Authentication': 'On-premise/4-BAW-SecurityAndAuth.md'
+    - 'Business Automation Workflow Logging and Monitoring': 'On-premise/5-BAW-LogAndMon.md'
+  - 'Tools':
+    - 'Health Check Tools': 'Tools/README.md'
+    - 'nmon': 'Tools/nmon.md'
+    - 'PMI': 'Tools/PMI.md'
+    
+
+theme:
+  custom_dir: custom/
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.top
+    - content.code.copy
+    - navigation.tabs
+  name: material
+  palette:
+    # Palette toggle for light mode
+    
+    - scheme: default
+      primary: indigo
+      accent: black
+      toggle: 
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
